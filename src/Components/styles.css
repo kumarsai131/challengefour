@@ -1,0 +1,23 @@
+.notTrue {
+  cursor: pointer;
+}
+
+.notTrue:hover {
+  color: green;
+}
+
+.true {
+  cursor: pointer;
+}
+
+.true:hover {
+  color: red;
+}
+
+h4 {
+  margin-bottom: -5px;
+}
+
+p {
+  margin-bottom: -5px;
+}
